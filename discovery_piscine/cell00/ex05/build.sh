@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if [ $# -eq 0 ]; then
+if [ $# -eq 0 ]
+then
 	echo "No arguments supplied"
 fi
 i=0
