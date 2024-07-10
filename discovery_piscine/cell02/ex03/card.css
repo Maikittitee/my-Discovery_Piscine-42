@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+}
+
+.card{
+	width: 200px;
+	height: 400px;
+	align-items: center;
+	border: 5px black solid;
+	border-radius: 10px;
+	display: flex;
+	padding: 10px;
+	flex-direction: column;
+	margin: auto;
+}
+
+.card img{
+	margin-top: 0px;
+	width: 50%;
+	border-radius: 50%;
+}
+
+.social{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+}
+
+.social img{
+	width: 10%;
+}
