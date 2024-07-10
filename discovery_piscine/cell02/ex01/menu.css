@@ -1,0 +1,16 @@
+
+.dropdown{
+	width: fit-content;
+}
+
+.dropdown-button{
+
+}
+
+.dropdown-content{
+	display: none;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
